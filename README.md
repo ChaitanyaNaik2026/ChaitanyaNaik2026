@@ -1,96 +1,75 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Chaitanya+Naik;AIML+Engineer+%7C+3x+Deployed+Projects;Ex-Altair+AI+Intern;NeetCode+150+%5BIn+Progress%5D" alt="Typing SVG" />
+</div>
+
 # 👋 Hi, I'm Chaitanya Naik
 
-Welcome to my GitHub! I'm a Computer Science Engineering student who enjoys building meaningful projects, exploring new technologies, and constantly improving my skills through hands-on learning.
+I'm a Computer Science student at **MIT ADT University, Pune** (2022–2026) who builds ML systems that actually deploy. My focus is on healthcare, climate, and finance applications — turning ideas into live demos that solve real problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naikchaitanya)
+[![GitHub followers](https://img.shields.io/github/followers/ChaitanyaNaik2026?style=for-the-badge&logo=github&color=181717)](https://github.com/ChaitanyaNaik2026)
+[![Visitor Count](https://komarev.com/ghpvc/?username=ChaitanyaNaik2026&style=for-the-badge&color=58A6FF)](https://github.com/ChaitanyaNaik2026)
 
 ---
 
-## 🌟 About Me
+## 📌 Pinned Projects
 
-* 🎓 CSE Undergraduate at **MIT Art, Design & Technology University, Pune** (2022–2026)
-* 💡 Passionate about turning ideas into real-world applications
-* 🚀 Interested in Machine Learning, Data Analytics, and Full-Stack Development
-* 📍 Based in Pune, India
-
----
-
-## 🔭 I’m Currently Working On
-
-* Building real-world projects that combine data, logic, and user-friendly interfaces
-* Improving my problem-solving and project deployment skills
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| **[Sepsis Early Detection](https://github.com/ChaitanyaNaik2026/sepsis-icu-predictor)** | Python, XGBoost, LSTM, FastAPI, Streamlit | [🔗 Live](https://sepsis-early-detection.onrender.com/) |
+| **[Fire Classification](https://github.com/ChaitanyaNaik2026/AI-Based-Fire-Type-Classification-using-MODIS-Satellite-Data)** | Scikit-learn, XGBoost, SVM, Plotly, Streamlit | [🔗 Live](https://ai-based-fire-type-classification-using.onrender.com/) |
+| **[Stock Market LSTM](https://github.com/ChaitanyaNaik2026/AI-Powered-Stock-Market-Analysis-with-LSTM)** | TensorFlow, Keras, LSTM, Pandas, Matplotlib | [📄 Publication](https://www.ijfmr.com/papers/2024/6/30563.pdf) |
 
 ---
 
-## 🤝 I’m Looking to Collaborate On
+## 🏆 Key Achievements
 
-* Open-source projects
-* Data-driven applications
-* Student-led tech initiatives and hackathons
-
----
-
-## 🌱 I’m Currently Learning
-
-* Machine Learning & Deep Learning
-* Cloud deployment basics
-* Data analytics and visualization
+- **100% recall** & **0.85 AUC** on Sepsis Detection (40,000+ ICU patient records, MIMIC-III)
+- **85-95% accuracy** on Fire Classification (30,000+ NASA MODIS satellite records)
+- **Grade O (Outstanding)** — AICTE-EduSkills Altair Data Science Internship
+- **Research published** in IJFMR — Stock Market Forecasting with LSTM
+- **Smart India Hackathon (SIH)** — College-level finalist
 
 ---
 
-## 💬 Ask Me About
+## 🛠️ Tech Stack
 
-* College projects
-* GitHub & project building
-* Productivity tips for students
-* Getting started with tech careers
+### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### ML & Deep Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-## 🛠️ Skills
-
-**Languages:** Python, Java, SQL
-**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
-**Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, Streamlit
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Early Sepsis Detection System
-
-A machine learning-based system that predicts the risk of sepsis in ICU patients and provides real-time insights through a web dashboard.
-
-* 🔗 **Live Demo:** [https://sepsis-early-detection.onrender.com/](https://sepsis-early-detection.onrender.com/)
-* 📂 **GitHub:** [https://github.com/ChaitanyaNaik2026/sepsis-icu-predictor](https://github.com/ChaitanyaNaik2026/sepsis-icu-predictor)
+### Deployment & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🔥 AI-Based Fire Classification System
+## 📊 GitHub Analytics
 
-A data-driven application that classifies fire types across India using satellite data and interactive visualizations.
-
-* 🔗 **Live Demo:** [https://ai-based-fire-type-classification-using.onrender.com/](https://ai-based-fire-type-classification-using.onrender.com/)
-* 📂 **GitHub:** [https://github.com/ChaitanyaNaik2026/AI-Based-Fire-Type-Classification-using-MODIS-Satellite-Data](https://github.com/ChaitanyaNaik2026/AI-Based-Fire-Type-Classification-using-MODIS-Satellite-Data)
-
----
-
-## 📄 Publication
-
-* **AI-Powered Stock Market Analysis with LSTM**
-  [https://www.ijfmr.com/papers/2024/6/30563.pdf](https://www.ijfmr.com/papers/2024/6/30563.pdf)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaNaik2026&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaNaik2026&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/naikchaitanya/](https://www.linkedin.com/in/naikchaitanya/)
-* 💻 **GitHub:** [https://github.com/ChaitanyaNaik2026](https://github.com/ChaitanyaNaik2026)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning simple ideas into full projects and learning something new from every build I complete 🚀
+- 🔗 **LinkedIn:** [linkedin.com/in/naikchaitanya](https://linkedin.com/in/naikchaitanya)
+- 💻 **GitHub:** [github.com/ChaitanyaNaik2026](https://github.com/ChaitanyaNaik2026)
+- 📧 **Email:** naik89640@gmail.com
 
 ---
 
-⭐ If you like my work, feel free to star my repositories and connect with me!
+⭐ *If you find my work useful, consider starring a repo — it helps others discover these projects.*
