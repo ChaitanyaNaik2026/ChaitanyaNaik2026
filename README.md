@@ -1,6 +1,6 @@
 <!-- Header with animated typing (optional, but keep if you like) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Chaitanya+Naik;Machine+Learning+Engineer;3+Deployed+ML+Systems;Ex-Altair+AI+Intern;NeetCode+150+%5BJune+2026%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Chaitanya+Naik;Machine+Learning+Engineer;3+Deployed+ML+Systems" alt="Typing SVG" />
 </div>
 
 # 👋 Hi, I'm Chaitanya Naik
